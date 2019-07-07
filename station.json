@@ -1,6 +1,10 @@
 {
   "stationList": [
     {
+      "title": "hindi evergreen hits",
+      "url": "http://192.240.102.133:11454/stream/1/"
+    },
+    {
       "title": "radiocity-hindi",
       "url": "http://prclive1.listenon.in:9960/;"
     },
