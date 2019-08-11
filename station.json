@@ -1,6 +1,10 @@
 {
   "stationList": [
     {
+      "title": "BIG 92.7 FM Bangalore",
+      "url": "http://sc-bb.1.fm:8017/"
+    },
+    {
       "title": "hindi evergreen hits",
       "url": "http://192.240.102.133:11454/stream/1/"
     },
